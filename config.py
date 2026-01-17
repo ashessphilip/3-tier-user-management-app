@@ -1,6 +1,6 @@
 DATABASE_CONFIG = {
-  'host': '',
-  'user': ,
-  'password': '',
-  'database': ''
+  'host': '10.39.32.3',
+  'user': 'ashess',
+  'password': 'Ashess@123',
+  'database': 'appdb'
 {
