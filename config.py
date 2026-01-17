@@ -3,4 +3,4 @@ DATABASE_CONFIG = {
   'user': 'ashess',
   'password': 'Ashess@123',
   'database': 'appdb'
-{
+}
